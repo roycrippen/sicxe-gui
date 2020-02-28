@@ -1,6 +1,6 @@
 # sicxe-tools
 
-Clone of [SicTools](https://github.com/jurem/SicTools.git) <br>
+Clone of [SicTools](https://github.com/jurem/SicTools.git) with Maven build and enhancements <br><br>
 Tools for SIC/XE hypothetical computer from the Leland Beck's book System Software. Includes:
   * Assembler
   * Simulator
