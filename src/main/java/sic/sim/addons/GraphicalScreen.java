@@ -110,6 +110,8 @@ public class GraphicalScreen {
         bevel.setBorder(new BevelBorder(BevelBorder.LOWERED));
         bevel.setLayout(new BorderLayout());
         bevel.add(fxPanel);
+//        bevel.setBackground(Color.darkGray);
+//        bevel.setForeground(Color.WHITE);
 
         JPanel panel = new JPanel();
         panel.setBorder(new EmptyBorder(5, 5, 5, 5));
